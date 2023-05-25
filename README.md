@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @🥥
-- 👀 I’m currently interested in china, tea, tennis, lego, robot, arts, cv, cg, ...
-- 🌱 I’m currently learning blender/kirta
-- 💞️ I’m looking to collaborate on things/thought that make people happy.
-- 📫 How to reach me ...
+- 👀 I’m currently interested in robot/game
+- 🌱 I’m currently learning blender
 
 <!---
 BigJohnn/BigJohnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
