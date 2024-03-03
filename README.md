@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @🥥
-- 👀 I’m currently interested in 3d reconstruction/robot
-- 🌱 I’m currently learning unity
+- 👀 I’m currently interested in robots / IoT devices.
+- 🌱 I’m currently learning slam / ros / 3d reconstruction.
 
 <!---
 BigJohnn/BigJohnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
