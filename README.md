@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @🥥
 - 👀 I’m currently interested in robots.
-- 🌱 I’m currently working with Lerobot, Zeroth-Bot, Isaacsim !
+- 🌱 I’m currently working with Lerobot, Zeroth-Bot, Genesis !
 
 <!---
 BigJohnn/BigJohnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
