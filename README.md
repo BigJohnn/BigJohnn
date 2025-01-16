@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @🥥
+- 👋 Hi, I’m @🥥Hoop
 - 👀 I’m currently interested in robots.
 - 🌱 I’m currently working with Lerobot, Zeroth-Bot, Genesis !
 
